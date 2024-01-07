@@ -1,12 +1,12 @@
 # User config
-author: "Dawon Ko"
-tagline: "Dawon Ko Homepage"
-description: "Hi! I am Dawon, interested in everything related to Marketing - campaigns, research, product. London based.🙋 "
+author: "Eunu Lee"
+tagline: "Eunu Lee Homepage"
+description: "Hello I'm Eunu! An Interior Designer based in Seoul "
 keywords: "Dawon, Marketing, Portfolio"
-email: "dawonkouk@gmail.com"
-linkedin: "https://www.linkedin.com/in/dawon-ko?utm_source=homepage&utm_medium=footer&utm_campaign=route_linkedin"
+email: "eunnnnu@gmail.com"
+linkedin: "https://www.linkedin.com/"
 twitter: "https://twitter.com/"
-github: "https://github.com/dawonko/Python-study"
+github: "https://github.com/"
 
 # Site config
 baseurl: ""
