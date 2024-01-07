@@ -1,0 +1,23 @@
+# User config
+author: "Dawon Ko"
+tagline: "Dawon Ko Homepage"
+description: "Hi! I am Dawon, interested in everything related to Marketing - campaigns, research, product. London based.🙋 "
+keywords: "Dawon, Marketing, Portfolio"
+email: "dawonkouk@gmail.com"
+linkedin: "https://www.linkedin.com/in/dawon-ko?utm_source=homepage&utm_medium=footer&utm_campaign=route_linkedin"
+twitter: "https://twitter.com/"
+github: "https://github.com/dawonko/Python-study"
+
+# Site config
+baseurl: ""
+highlighter: rouge
+sass:
+  sass_dir: assets/scss
+  style: compressed
+
+#analytics
+
+analytics:
+  provider: google
+  google:
+    tracking_id : G-2GP5LKVRQX
