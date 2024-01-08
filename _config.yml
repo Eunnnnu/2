@@ -8,8 +8,10 @@ description: "Hello!
 <br> I'm Eunu.",
 <br>
 <br>
-<br>"　  An Interior designer",
-<br>"　  based in Seoul.",
+<br>"　  ", "An", 
+<br> "Interior designer",
+<br>"　  ", "based in",
+<br> "Seoul.",
 <br>
 <br>
 <br>""
